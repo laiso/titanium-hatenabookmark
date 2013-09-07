@@ -1,4 +1,4 @@
->|js|
+```js
 var hatenabookmark = require('so.lai.hatenabookmark');
 
 hatenabookmark.setup({
@@ -13,5 +13,5 @@ if(!hatenabookmark.loggedIn){
     url : 'http://example.com/'
   });
 }
-||<
+```
 
