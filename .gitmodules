@@ -1,0 +1,3 @@
+[submodule "External/Hatena-Bookmark-iOS-SDK"]
+	path = External/Hatena-Bookmark-iOS-SDK
+	url = https://github.com/hatena/Hatena-Bookmark-iOS-SDK.git

@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2013 by Your Company
+
+
+# these should not be edited
+name: HatenaBookmark
+moduleid: so.lai.hatenabookmark
+guid: c6f09e95-d59e-430a-8dc9-6d2e4d8241bf
+platform: iphone
+minsdk: 3.1.2.GA
