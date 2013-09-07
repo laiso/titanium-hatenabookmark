@@ -15,3 +15,7 @@ if(!hatenabookmark.loggedIn){
 }
 ```
 
+くわしくはウェブで
+
+http://d.hatena.ne.jp/laiso+iphone/20130907/1378547297
+
